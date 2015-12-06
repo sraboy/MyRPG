@@ -7,11 +7,11 @@ I was digging through my old backup hard drive and found a walking demo of a Zel
 http://www.petesqbsite.com/sections/tutorials/tutorials/rpg_tut1.txt
 http://www.petesqbsite.com/sections/tutorials/tutorials/rpg_tut2.txt
 
-Here's a screenshot of the game's world: http://imgur.com/dlivWOF
+![screenshot](screenshot.png)
 
-You start in the top-left. The only other "maps" built into the game at this time are the other two seen here, going down from the start and going right from there.
+You start on the top-left screen. The only other area "maps" built into the game at this time are the other two seen here, going down from the start and going right from there.
 
-I've released the code on GPLv3 for anyone who wants to toy with it or learn from it. Happy coding!
+This code is under the GPLv3 license for anyone who wants to toy with it or learn from it. Happy coding!
 
 
 
